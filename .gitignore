@@ -1,0 +1,4 @@
+sfml-*
+main.exe
+main.o
+src/*
